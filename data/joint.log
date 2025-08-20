@@ -1,0 +1,79 @@
+[31muser 1/1:  73202956 |stage 0: undefined| nicewebrl.experiment - INFO - Stage order: ['Instructions', 'Environment']
+[0m[31muser 1/1:  73202956 |stage 0: undefined| [make_consent_form] waiting for consent[0m
+[31muser 1/1:  73202956 |stage 0: undefined| nicewebrl.experiment - INFO - Stage order: ['Instructions', 'Environment']
+[0m[31muser 1/1:  73202956 |stage 0: undefined| [make_consent_form] waiting for consent[0m
+[31muser 1/1:  73202956 |stage 0: undefined| nicewebrl.utils - INFO - {'message': 'Ping 5673'}
+[0m[31muser 1/1:  73202956 |stage 0: undefined| nicewebrl.utils - INFO - {'message': 'Ping 4215'}
+[0m[31muser 1/1:  73202956 |stage 0: undefined| [on_change] on_change[0m
+[31muser 1/1:  73202956 |stage 0: undefined| main - INFO - age: 11, sex: Male
+[0m[31muser 1/1:  73202956 |stage 0: undefined| main - INFO - Starting experiment
+[0m[31muser 1/1:  73202956 |stage 0: Instructions| main - INFO - Finished Instructions via button press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ==============================
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - {'desc': 'some description', 'key1': 'value1', 'key2': 'value2', 'type': 'Stage', 'unique_id': 'stage_2e02ca03c0044273bc48b62cc99a82f5'}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - Getting latest stage state
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - No stage Environment state found, starting new stage
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.615
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 2, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 2
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowUp
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.483
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 3, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 3
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowUp
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.32
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 4, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 4
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.666
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 5, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 5
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.224
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 6, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 6
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.166
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 7, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 7
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.125
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 8, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 8
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| main - INFO - global_handle_key_press
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - handle_key_press key: ArrowRight
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - 'Environment' saved file
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ∆t: 0.357
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - stage state: {'nsteps': 9, 'nepisodes': 1, 'nsuccesses': 0}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - env step: 9
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - finished saving
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.utils - INFO - {'message': 'Ping 1286'}
+[0m[31muser 1/1:  73202956 |stage 1: undefined| nicewebrl.experiment - INFO - Stage order: ['Instructions', 'Environment']
+[0m[31muser 1/1:  73202956 |stage 1: undefined| main - INFO - Starting experiment
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - ==============================
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - {'desc': 'some description', 'key1': 'value1', 'key2': 'value2', 'type': 'Stage', 'unique_id': 'stage_51eeec0170fb4f4e95e0d00c486daf24'}
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - Getting latest stage state
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.stages - INFO - Loading stage Environment state from memory
+[0m[31muser 1/1:  73202956 |stage 1: Environment| nicewebrl.utils - INFO - {'message': 'Ping 9384'}
+[0m
